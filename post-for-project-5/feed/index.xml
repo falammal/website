@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Post For Project 5	</title>
-	<atom:link href="https://falammal.github.io/website/post-for-project-5/feed/" rel="self" type="application/rss+xml" />
-	<link>https://falammal.github.io/website/post-for-project-5/</link>
+	<atom:link href="./index.html?simply_static_page=414" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>Personal Website</description>
 	<lastBuildDate>Fri, 16 Dec 2022 12:56:59 +0000</lastBuildDate>
 	<sy:updatePeriod>
